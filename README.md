@@ -7,8 +7,8 @@ This guide details how to generate a well-formatted PDF resume using JsonResume 
 
 **Prerequisites:**
 
-* Make resume first using gist editor or any editor of your choice then copy paste json to gist public and publish
-* 
+* Make resume first using gist editor or any editor of your choice then copy paste json to gist public and publish*
+  
 **Steps:**
  Install Node.js first ([https://nodejs.org/en/download](https://nodejs.org/en/download))
 
