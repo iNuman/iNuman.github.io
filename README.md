@@ -1,6 +1,6 @@
-### https://inuman.github.io/
-
 Json Resume Site ([https://jsonresume.org/](https://jsonresume.org/))
+
+My Json Resume gist: ([https://gist.github.com/iNuman](https://gist.github.com/iNuman/063a6c8a31f73d249786094ed4ed2ab9))
 
 ## Complete steps to generate a PDF Resume for JSON Resume along with Custom Themes
 
